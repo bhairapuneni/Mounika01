@@ -2,3 +2,9 @@ working with the user reports
 quarterely
 monthly
 yearly reports
+#Continuous Integration Demo
+// reads all from input.txt
+      souceFile.read(array);
+      // writes all data to newfile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newfile.");
